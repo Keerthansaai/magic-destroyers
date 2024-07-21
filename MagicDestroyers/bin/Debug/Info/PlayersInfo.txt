@@ -1,0 +1,6 @@
+Bob,20,3
+Uther,20,3
+Snark,20,3
+Merlin,11,2
+Necromus,14,2
+Cenarius,15,2
