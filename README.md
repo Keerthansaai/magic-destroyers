@@ -3,7 +3,7 @@
 Welcome to Magic Destroyers! This project is an engaging game developed using C# in Visual Studio. In Magic Destroyers, players embark on a thrilling adventure filled with magic and destruction. Whether you're a developer looking to learn from a robust codebase or a gamer seeking new challenges, Magic Destroyers offers an exciting experience.
 
 ✨ Features
-- **Immersive Gameplay**: Dive into a world of magic with intuitive controls and captivating graphics.
+- **Immersive Gameplay**: Dive into a world of magic with intuitive gameplay.
 - **Character Classes**: Choose from multiple character classes, each with unique abilities and playstyles.
 - **Dynamic Environments**: Explore richly detailed environments that change as you progress.
 - **Challenging Enemies**: Face off against a variety of enemies, each requiring different strategies to defeat.
@@ -60,8 +60,8 @@ Before you start, ensure you have the following installed on your machine:
 5. **Submit a Pull Request** with a detailed description of your feature.
 
 Credits
-- **Game Design**: Keerthansaai
-- **Programming**: Keerthansaai
+- **Game Design**: Keerthan saai reddy
+- **Programming**: Keerthan saai reddy
 
 📚 Additional Resources
 ### References
